@@ -36,4 +36,6 @@ No tebe ne nuzhna nezemnaya lyubov'
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c =200x200)
 stolbitsa.com/fistachka/ohrana<br><br>
+![з5](https://github.com/user-attachments/assets/9bede2bf-6c55-4bac-be0e-aa1656937c0e)
+![з6](https://github.com/user-attachments/assets/7eb4683c-d266-4e3c-9c48-9ec466c81ee8)
 
