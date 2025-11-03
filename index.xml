@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fantazer3</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="Fistachka" repo="fantazer4"/>
   <readme>
     <ru>70fb2c57e3d1b4939e17f8cac3aef2e6417be7c458f0761dd6ade6c9f6ee2b98</ru>
@@ -17,9 +17,9 @@
     <tonalities>1</tonalities>
     <video name="21.mp4" size="2042210" type="video/mp4" volume="0.5">3b92448ceb52c0c9037562ae855aa15fab655ba3c80a82752e29003f70f3cc5f</video>
     <notes>
-      <note number="1" values="5" ticks="120" durationTicks="43" ppq="96" velocity="0.78"/>
-      <note number="2" values="6" ticks="168" durationTicks="45" ppq="96" velocity="0.772"/>
-      <note number="3" values="5" ticks="216" durationTicks="42" ppq="96" velocity="0.827"/>
+      <note number="1" values="18" ticks="164" durationTicks="95" ppq="96" velocity="0.78"/>
+      <note number="2" values="38" ticks="258" durationTicks="45" ppq="96" velocity="0.772"/>
+      <note number="3" values="4" ticks="308" durationTicks="96" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="2">
