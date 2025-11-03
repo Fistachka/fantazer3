@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fantazer3</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="fantazer4"/>
   <readme>
     <ru>70fb2c57e3d1b4939e17f8cac3aef2e6417be7c458f0761dd6ade6c9f6ee2b98</ru>
@@ -30,13 +30,13 @@
     <tonalities>1</tonalities>
     <video name="22.mp4" size="2453949" type="video/mp4" volume="0.5">7ece428dfce090e96a8f315edf69218fe424c35302a87bc1d9b3abaa4dd073f2</video>
     <notes>
-      <note number="1" values="5" ticks="44" durationTicks="43" ppq="96" velocity="0.78"/>
-      <note number="2" values="6" ticks="92" durationTicks="45" ppq="96" velocity="0.772"/>
-      <note number="3" values="5" ticks="140" durationTicks="42" ppq="96" velocity="0.827"/>
-      <note number="4" values="4" ticks="188" durationTicks="31" ppq="96" velocity="0.772"/>
-      <note number="5" values="4" ticks="237" durationTicks="28" ppq="96" velocity="0.772"/>
-      <note number="6" values="4" ticks="284" durationTicks="95" ppq="96" velocity="0.819"/>
-      <note number="7" values="4" ticks="576" durationTicks="95" ppq="96" velocity="0.819"/>
+      <note number="1" values="48" ticks="148" durationTicks="34" ppq="96" velocity="0.78"/>
+      <note number="2" values="48" ticks="196" durationTicks="29" ppq="96" velocity="0.772"/>
+      <note number="3" values="48" ticks="244" durationTicks="31" ppq="96" velocity="0.827"/>
+      <note number="4" values="48" ticks="292" durationTicks="31" ppq="96" velocity="0.772"/>
+      <note number="5" values="48" ticks="341" durationTicks="28" ppq="96" velocity="0.772"/>
+      <note number="6" values="48" ticks="388" durationTicks="95" ppq="96" velocity="0.819"/>
+      <note number="7" values="38" ticks="483" durationTicks="190" ppq="96" velocity="0.819"/>
     </notes>
   </exercise>
   <exercise number="3">
