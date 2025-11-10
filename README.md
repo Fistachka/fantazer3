@@ -17,8 +17,8 @@
 Я люблю всё сильнее
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c =200x200)
-stolbitsa.com/fistachka/fantazer<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/3f0ac503-3a01-4055-b8e4-6a0a9b4c1676 =200x200)
+stolbitsa.com/fistachka/fantazer2<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -38,6 +38,6 @@ Nu, a ya
 YA lyublyu vsyo sil'nee
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c =200x200)
-stolbitsa.com/fistachka/ohrana<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/3f0ac503-3a01-4055-b8e4-6a0a9b4c1676 =200x200)
+stolbitsa.com/fistachka/fantazer2<br><br>
 
