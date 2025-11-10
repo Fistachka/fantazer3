@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fantazer3</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="fantazer4"/>
   <readme>
-    <ru>70fb2c57e3d1b4939e17f8cac3aef2e6417be7c458f0761dd6ade6c9f6ee2b98</ru>
-    <en>ddfdf68d78b314d51f104ace17f69ee14e6a098925083b3fa84bc1e3741f7690</en>
+    <ru>413457af671d352a2a7917eb570bb48276e76e8038962ba3fa10cce9dd60a95b</ru>
+    <en>1e3fece3a0489cd5c3238d75e4d788fdfed953f0c9a5693ee68cc50feb9ac046</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
