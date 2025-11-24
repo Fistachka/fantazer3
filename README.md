@@ -5,7 +5,7 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/VXyftZdGLHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWYCVIXeuno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Фантазёр
 Ты меня называла
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/fantazer2<br><br>
 ![з6](https://github.com/user-attachments/assets/7eb4683c-d266-4e3c-9c48-9ec466c81ee8)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/AhnfEqMS7Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy9IpNRUoSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Fantazyor
 Ty menya nazyvala
